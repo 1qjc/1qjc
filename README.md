@@ -1,5 +1,5 @@
 - 🌖 Hi, I’m @**1qjc**
-- 🌗 I’m interested in ...**classic**
-- 🌘 I’m currently learning ...**next.js**
+- 🌗 I’m interested in ...**stock market**
+- 🌘 I’m currently learning ...**SwiftUI**
 - 🌑 How to reach me ...**no other way**
 - ☄️ I’m looking to collaborate on ...**mars**
