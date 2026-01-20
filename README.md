@@ -1,4 +1,4 @@
-- 🌖 Hi, I’m **@1qjc**
+- 🌖 Hi, I’m **[1qjc](https://1qjc.bet)**
 - 🌗 I’m interested in **US stock market**
-- 🌘 I’m currently learning **SwiftUI, Vercel**
+- 🌘 I’m currently learning **Cursor, Vercel, iOS App**
 - ☄️ I’m looking to collaborate on **Mars**
