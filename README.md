@@ -1,4 +1,4 @@
 - 🌖 Hi, I’m **[1qjc](https://1qjc.bet)**
 - 🌗 I’m interested in **Boating**
-- 🌘 I’m currently learning **Apple, Vercel, Cursor, Claude Code**
+- 🌘 I’m currently learning **Apple, Vercel, Cursor**
 - ☄️ I’m looking to collaborate on **Mars**
