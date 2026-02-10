@@ -5,5 +5,5 @@
 
   
     #19
-    > _currently on: Claude Code, @Codex._  
-    > _moving to: v0 (RETARDED NOW)_  
+    > _currently on: [Claude](https://github.com/claude), [Codex](https://github.com/codex)._  
+    > _moving to: [v0](https://github.com/v0) (RETARDED NOW)_  
