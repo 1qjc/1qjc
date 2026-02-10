@@ -6,4 +6,4 @@
   
     #19
     > _currently on: Claude Code, Codex._  
-    > _moving to: v0_  
+    > _moving to: v0 (RETARDED NOW)_  
